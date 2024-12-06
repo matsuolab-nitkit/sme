@@ -1,0 +1,94 @@
+length
+ 1 mile = 1760 yards(yd)=5280 feet(ft)
+ 1 yd = 3 ft = 36 inches(in)
+ 1 ft = 12 in
+ 1 mil = 0.001 in
+
+Square measure
+ 1 square yard(ya^2) = 9 square feet (ft^2)
+ 1 ft^2 = 144 cubic inches (in^3)
+
+Cubic measure
+ 1 cubic yard (yd^3) = 27 cubic feet (ft^3)
+ 1 ft^3 = 1728 cubic inches (in^3)
+
+Liquid measure
+ 1 U.S gallon(gal) = 0.1337 ft^3 = 231 in^3
+
+Commercial weight
+ 1 net ton = 2000 pounds
+ 1 nb  = 16 ounces(oz) 
+
+Pressure
+ 1 pound per square inch (lb/in^2 or psi) = 144 pounds per square foot (lb/ft^2)
+ 1 atmosphere = 14.7 lb/in^2 or psi
+
+Coulomb
+ the quantily of electricity transported in one second by a current of one ampere
+Farad
+ the electric capacitance of a capacitor thet has a difference of potential of one volt
+ between its plates when it is charged by a quantily of electricity equal to one coulomb
+Henry
+ the electric inductance of a closed circuit in which an electromotive force of one volt is 
+ produced when the electic current in the circuit varies uniformly at a rate of one
+ ampere per second
+Hertz
+ a frequency of one cicle per second
+Joule
+ the work done (that is energy expended) when the point oof application of a force of
+ one newton is displaced a distance of one meter in the direction of the force
+Lumen
+ the luminous flux emited in a solid angle of one steradian by a point source having a
+ uniform intensity of one candela
+Lux
+ the illuminance produced by a luminous flux of one lumen uniformly distributed over
+ a surface of one square meter
+Newton
+ that force which, qhen applied to a body having a mass of one kilogram, gives it an
+ acceleration of one meter per second squared
+Ohm
+ the electric resistance between two points of a conductor when a constant difference
+ of protential of one volt, applied between these two points, produces a current of one
+ ampere
+Pascal
+ the pressure or stress of one newton per square meter
+Siements
+ the magnetic flux density given by a magnetic flux of one weber per square meter
+Volt
+ the unit of electric poential difference and electromotiv force, which is the difference
+ of electric potential between two points of a conductor carrying a constant current of 
+ one ampere when the power dissipated between these points is equal to one watt
+Watt
+ the power that gives rise to the production of energy at the rate of one joule per second
+Weber
+ the magnetic flux which, linking a circuit of one turn, produces in it an electromotive 
+ force of one volt as it isreduced to zero at a uniform rate in one second
+
+The expression of metric values
+SI symbol        Prefix           Multiplication Factors
+ T                    tera               10^12
+ G                    giga               10^9
+ M                    mega               10^6
+ k                    kilo               10^3
+ h                    hecto              10^2
+ da                   deka               10^1
+ d                    deci               10^-1
+ c                    centi              10^-2
+ m                    milli              10^-3
+ É                    micro              10^-6
+ n                    nano               10^-9
+ p                    pico               10^-12
+ f                    femto              10^-15
+ a                    atto               10-18
+
+Taylor's tool life equation
+ VT^n = C
+The force necessary to shear metal can be calculated by:
+ F= SLT
+  where: F = blanking or punching force(lb, or N)
+         S= shear strength of material( psi or Pa)
+         L = sheared length (in, or m)
+         T = material thickness (in, or m)
+for round holes
+  F = SÉŒDT
+ where D = diameter(in , m)
