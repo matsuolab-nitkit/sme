@@ -1,0 +1,1059 @@
+The law of conservation of momentum states that in an isolated system:
+the total momentum before an interaction equals the total momentum after the interaction.
+
+A force applied over a period of time is called:
+impulse.
+
+If a flywheel on a punch press accelerates from at rest to a top rotational speed of 3,000 rpm in 90 seconds, what is the angular acceleration ?
+2000 rev/min2
+
+When an applied force stretches an object, the part is under:
+tension.
+
+The ratio of the lateral strain on the element compared to the axial strain is called:
+Poisson's ratio.
+
+The energy required to raise the temperature of a unit mass of material by one degree is the definition of:
+specific heat.
+
+Which of the following variables must be held constant when using Boyle’s Law?
+temperature
+
+Standard atmospheric pressure at sea level is:
+101.33 kPa. 29.2in.Hg. 14.7psi 76.0cmHg
+
+A cylindrical water tank has a diameter of 12 feet. If the tank were filled with water to a height of 8 feet, the force in pounds exerted on the bottom of the tank would be closest to:
+56,000lbs.
+
+Ductility is measured by determining the:
+percent of elongation at fracture.
+
+Which of the following tests would be used for accelerated aging for metal parts?
+Fatigue
+
+The modulus of elasticity is the:
+ratio of stress to strain in the elastic zone of a material.
+
+A metal undergoes plastic deformation when:
+the metal remains deformed once the deforming force is removed.
+
+The general type of machine that presses a steel ball into a workpiece and then measures the amount of penetration is a/an:
+hardness testing machine.
+
+Which of the following is a plain low-carbon steel?
+1020
+
+When metals solidify from a molten state, the atoms arrange themselves into various orderly configurations known as:
+crystals.
+
+Carburizing is:
+diffusing carbon into the surface of a steel part.
+
+Tempering is used to:
+remove some of the stress produced by quenching.
+
+An example of a thermoplastic resin is:
+polysulfone.?polystyrene.?
+
+If you needed a plastic that would flow into a mold at room temperature, what type would you use ?
+Elastomer
+
+A material comprised of a combination of materials which has properties that exceed the properties of each ingredient acting alone and in which each ingredient is still recognizable with the naked eye after the combination is complete is called a/an:
+composite.
+
+Roughness and waviness are:
+predictable and controllable surface finish defects that appear on a a result of machining.
+
+The most common method of projection using ANSI standard practices is commonly referred to as:
+third angle projection.
+
+The symbol shown in Fig.10 indicates that the surface to which it is applied must be produced by:
+machining
+
+If a hole's diameter is 0.05 mm greater than its specified size at maximum material condition, what amount of bonus tolerance may be added to the hole's positional tolerance?
+0.050 mm
+
+Generally speaking, the appropriate percentage of the workpiece locational tolerance applied to a jig or fixture is:
+20 to 50 percent.
+
+If a 2” diameter shaft is 0.002” smaller than the hole in which it fits, it is a (an):
+clearance fit.
+
+Calculate the lower limit on the O.D. of a 7/8" diameter shaft using an RC-4 fit.
+.8734
+
+What are the limits of size of an OD 5.750 in. shaft produced for an LC-4 fit?
+5.746, 5.750
+
+What is GD&T?
+An international standard that uses dedicated symbols to communicate instructions about design.
+
+The Initial Graphics Exchange Specifications (IGES) defines a standard method which can be used to:
+exchange CAD data between CAD systems.
+
+Which of the following commands would be used to proportionally increase or decrease the size of an object on a CAD display without changing the dimensions of that object?
+zoom
+
+Stereolithography is a technique which can be used to:
+rapidly generate physical prototypes of piece parts directly from 3D CAD data.
+
+A surface representation of a lathe-turned part would best be represented by:
+surface of revolution.
+
+Which of the following engineering analysis methods would be most appropriate for modeling the heat distribution in an engine exhaust manifold?
+finite element analysis
+
+Which type of rapid prototyping system involves depositing layers of thermoplastic material from a lightweight extruder head/nozzle onto a fixtureless base?
+Fused-deposition modeling
+
+The accuracy of CNC machined models can be optimized by using:
+edge and point data.
+
+To make a detailed and accurate cost estimate, or make/buy decisions, the design configuration of the end product must be complete. Showing the assembly relationship bwteen component parts of the final assembly, is best conveyed by completing a cmprehensive:
+bill of process.
+
+Which of the following engineering analysis methods would be most appropriate for modeling the heat distribution in an engine exhaust manifold?
+Finite element analysis
+
+Applying additive manufacturing for the creation of production parts has the advantage over traditional subtractive methods for:
+functional complexity
+
+When part prints are not available, parts and prototypes can still be re-created for 3D printing by using:
+3D scanning
+
+Which of the following is the greatest benefit of Design for Manufacture?
+Ease of productibility
+
+In a Group Technology classification system, which of the following would most likely be found in the same part family?
+Engine flywheel, brake drum, cast iron pulley
+
+Which of the following methods may be used to achieve high quality products by conducting market research and experiments aimed at determining customer needs?
+Quality Function Deployment
+
+A manufacturing engineer should view the design specifications for a product as:
+important but changeable if necessary to make production easier and economical.
+
+The first step in designing a manufacturing process is to:
+identify the product specifications and the tolerances required.
+
+Which of the following is NOT a type of patent?
+Greyhound
+
+An example of a descriptive trademark is?
+Pizza Hut
+
+Which of the following designations is a legitimate and effective means of restricting information on formulas, design, systems or compiled information?
+Trade secret
+
+In reference to cutting tool design and using the Taylor equation for tool P215
+wear, what is the expected tool life if the Cutting speed (V) is 120 ft/min. Tool material is carbide (n=3), and a cutting speed corresponding to a tool life of 1 minute is given as C=700 ft/min.
+357.3 minutes. P.215
+
+On a lathe, a parting tool is typically mounted on the:
+cross-slide
+
+What happens when a tool's depth-of-cut is increased prior to the second cut of a turning operation and other parameters of the cutting operation remain the same?
+All the cutting forces are increased
+
+A drilling machine consisting of two or more independent, light duty, single spindle machines mounted on a common base is a:
+gang drill.
+
+A machine specifically designed to drill deep holes, generally utilizing a horizontal spindle, is a:
+gun drill.
+
+Precision boring machines maintain close tolerances and:
+take relatively light cuts.
+
+The components of a plain milling machine which provide the x, y and z motions are, respectively, the:
+table, saddle, and knee
+
+A 5" diameter face mill with 10 cemented, carbide, inserted teeth is rotating at 200 rpm. The table of the milling machine is fed at a rate of 4 ipm. The basic feed in inches per tooth is:
+0.002 units. p.231 Eq24-14
+
+The flats on a hexagon nut are to be straddle milled from round bar stock on a milling machine. Forty turns of the crank handle on a universal dividing head rotate the workpiece 360°. How many turns of the handle are necessary to index the workpiece from one set of flats to the next?
+6 2/3
+
+For band sawing metals, which one of the following is NOT important in determining the blade pitch, or number of teeth per inch?
+The grain direction of the material being cut.
+p.233-234
+
+Which of the following characteristics are associated with the cold-working of steel?
+high strength, high hardness, low ductility
+p.247-248
+
+Which of the following would tend to decrease the chance of material fracture along a bend?
+Corner setting p.261
+
+Cold forming of steel:
+occurs below the recrystallization temperature.
+p.247-248
+
+The force needed to pierce a 2 inch diameter hole in .125 inch thick steel having a shear strength of 60,000 psi is approximately:
+47,124 lb. p.259
+
+A die which performs a series of fundamental sheet metal operations at two or more stations during each press stroke is commonly referred to as a :
+progressive die. p.264-265
+
+Which stamping operation produces a slug that becomes the usable work piece?
+Blanking p.259
+
+A core in a mold is:
+used to produce a cavity in the casting.
+p.276-277
+
+In a soldering process, the PRIMARY function of flux is to:
+removes oxides and facilitates wetting.
+p.294-295
+
+Spot welding is an example of:
+resistance welding p.291-292
+
+The pitch of a screw thread is the:
+distance between the peaks of two adjacent threads.
+p.297
+
+How much heat would be generated creating a resistance spot weld on 16 gage (.062 inch) sheet metal if the current was set at 6800 Amps, the resistance of the system was determined to be 1.5 ohms and the time of application was .5 seconds ?
+34,680,000 Joules p.291
+
+In a powder coating system, thermoset powders include:
+epoxy. p.316
+
+Injection molding is used mainly to mold:
+thermoplastic materials.
+
+Which one of the following materials can be thermoformed (vacuum-formed)?
+polyethylene p.320-321
+
+A plastics manufacturing firm for certain products wishes to choose only one type of thermoplastic material for its injection molding, rotational molding, theremoforming and reinforced plastic molding processes.
+Which type of material would be suitable for the above applications ?
+polyethylene p.320-321
+
+Filament winding is the name of an operation that can be used:
+to produce round industrial storage tanks.
+p.332-333
+
+Glazing is a technique used for the finishing of:
+ceramic parts. p.337
+
+If someone must prepare a circuit board for copper application, what process must they perform ?
+Etching excess material to leave copper tracks.
+
+If a time standard is needed during the planning phase of a new product development program, which time study techniquewould provide the estimate?
+Predetermined Time-standard System
+p.348:35.7
+
+Key concepts, in regards to forecasting for production and inventory planning, include all of the following except:
+Forecast accuracy is indirectly proportional to the number of items in the forecast group.
+p.346:35.2
+
+The core philosophy of Just-In-Time (JIT) is the elimination of:
+waste p.355:36.4
+
+Acomputer-aided process planning (CAPP) system will not provide:
+data for accurate cost estimates.
+p.361:37.2
+
+Which is the best approach for a maintenance program in a highly automated manufacturing facility?
+preventative maintenance
+
+When designing with concern for ergonomics, human factors engineers would most likely suggest that features be designed to:
+adjust to fit people from the 5th to the 95th percentile of size.
+P372
+
+For the completion of a given process, the raw data showed a statistical average time of 2.07 minutes. The rating was 90%, and the allowance was 10%. The standard time for the process:
+2.05 minutes
+P371,372 37-1,2
+
+If an assembly job’s normal time is 3 minutes and the worker’s actual assembly time is 4 minutes, what is the worker’s performance rating?
+75%
+
+What type of power is used for robots that work with large heavy loads?
+Hydraulic. P449:44.1
+
+What type of maintenance approach uses sophisticated sensors, programable controllers, and computers to monitor equipment breakdowns?
+Predictive maintenance
+P370:37.6
+
+What type of maintenance approach will NOT prevent all breakdowns, but can dramatically reduce the amount of production time lost waiting for equipment to be repaired?
+Preventive maintenance
+P370:37.6
+
+Which of the following includes the study of human factors?
+engineering anthropometry.
+P372:37.8
+
+The main difference between a jig and a fixture is:
+jigs guide the cutting tool.
+P386:38.4 P389:38.5
+
+A workpiece may be positively located by six pins positioned so that they collectively restrict the workpiece in three axes. This method of location is known as the:
+3-2-1 method P378
+
+For workholding, the initial clamping pressure should be directed toward the:
+primary location plane.
+P384:38.3
+
+When designing a manual assembly operation, which of the following would not contribute to repetitive motion injuries?
+inadequate lighting
+
+Based on OSHA regulations, oxygen cylinders may not be stored with compressed gas cylinders containing:
+acetylene.
+P409
+
+Which of the following types of portable fire extinguishers should be used on a fire involving computers?
+Class C
+P408
+
+If a manufacturing plant had 20 injuries and job-related illnesses during a period in which all employees worked a total of 800,000 hours, what would be the plant's total injury-illness rate based upon OSHA's current factor of hours worked per year by 100 employees?
+5.2 or 5.0
+
+Which of the following is the most effective method to assure safety within an organization?
+integrating and applying the safety ethic throughout the organization
+P400:40.2
+
+OSHA requires that ear protection be provided to employees when they experience sound duration of 8 hours per day that exceeds: (as measured on the "A" scale of a standard soundlevel meter at slow response)
+90 dBA.
+
+OSHA requirements stipulate that when a press is being worked on, which of the following be done?
+The main power disconnect be locked
+P419
+
+The safe use of chemicals begins with:
+developing the Material Safety Data Sheet
+P420:40 10
+
+Which statement below is TRUE about exposure control plans for bloodborne pathogens and infectious materials in the workplace? AN exposure control plan must:
+include guidelines fbr ensuring use of PPE, proper signs and labels for
+infectious materials to reduce or mitigate exposure.
+
+The waste for any facility must be properly managed and in doing so, the generator of the hazardous waste may not treat, store, dispose of, transport, or offer for transportation any hazardous waste without having:
+an EPA identification number.
+P421
+
+What is the level that a worker can be exposed to a chemical without negative effects?
+Threshold limit
+
+Which document describes the procedures to follow during workplace fires?
+Emergency Action Plan
+P420:40.10
+
+A software designed to disrupt a digital system or to allow a hacker to gain access to the system without authorization is?
+Malware
+
+A smart sensor can communicate with other systems in real time using:
+WiFi.
+
+An HMI,(Human Interface Controller), is a computer assist interface that displays:
+machine or process data.
+
+Cloud computing allows manufacturers to upload data and:
+analyze the data.
+
+Machine learning algorithms must be coded into computer software using:
+a computer programming language
+
+Which technology enables machine learning AI(Artificial Intelligence) software to perform virtual simulations of production processes?
+Digital Twin
+
+Which of the following techniques would be the best method for determining the average of a column of ten numbers in a spreadsheet? Assume all functions exist for a specific spreadsheet.
+@AVG(b2..b11)
+
+Which of the following best describes the Z axis on a CNC milling machine feeding into a work piece while the X and Y axis are moving?
+incremental positioning
+
+The function of feedback in CNC is:
+establishing a closed loop.
+
+The "Z" axis on an NC machine is generally the:
+spindle axis.
+
+The postprocessor of an NC programming system is responsible for:
+transferring an NC program to a specific machine tool.
+
+The type of system where a central host computer is used for the sending of part programs to the computer controller(s) of two or more machine tools is best known as:
+distributed numerical control.
+
+When using the right-hand rnle for identification of CNC machine axes, the thumb corresponds to which axis?
++X
+
+The key element of an information system to enable the real-time access by multiple users to a CAD document database is a:
+client server.
+
+Motion control on a CNC machine is typically:
+closed loop servo control.
+P430
+
+Motion control on a CNC machine is typically:
+closed loop servo control.
+P441
+
+A ladder logic statement (one line of code) is referred to as a:
+rung.
+
+A proximity switch transmits a signal to which Programmable Logic Controller (PLC) module?
+Input
+
+In ladder logic code this symbol ---| |--- represents a(n):
+examine on symbol.
+
+When troubleshooting a problem in a programmable logic controller (PLC), the first thing to check/observe is:
+LED status lights.
+
+Programmable logic controllers (PLC) differ from a computer numerical controller (CNC) where:
+it is dedicated to one process or operation for a significant amount of time
+
+The accuracy of a robot is:
+the same as the repeatability of the robot.
+
+What are the four basic industrial robot configurations available?
+polar, cartesian, cylindrical, and jointed-arm.
+P450
+
+Which type of robotic power system should be selected for extremely quick and accurate assembly of small components?
+electrical
+P449
+
+Interlocks on a robot are used:
+primarily for shutting down the robot in an emergency situation.
+
+The origin of the world coordinate system, when controlling the movement of a robotic arm, is located:
+at the center of the base of the robot.
+P450 Coordinate system
+
+What type of power is used for robots that work with large heavy loads?
+Hydraulic.
+P449
+
+What type of control requires outside sensing to modify the robot program?
+Adaptive
+
+A bar code can be read from either left to right or right to left. The symbology feature that allows for this is its:
+start/stop character.
+P456
+
+The X dimension of a bar code refers to the:
+width of the narrowest element.
+
+You are required to implement an automatic identification system into an existing manufacturing area. The system must have the ability to track parts through the manufacturing system, carry manufacturing data about the product, allow information to be changed or updated and not be affected by dirt or grime. The auto ID technique that best fits this application is:
+radio frequency identification.
+P457
+
+Which of the following statements is correct concerning UPC and Code 39 Bar Code?
+UPC is strictly numeric and Code 39 is alphanumeric.
+P456
+
+A bar code can be read from either end because:
+The software adjusting for the direction of the reading.
+P456
+
+Manufacturing lead time includes which of the following?
+Queue time, setup time, run time, wait time, and move time.
+P348
+
+Demand of an item is considered to be, "independent" when that:
+item's demand is unrelated to the demand for other items.
+
+The basis for the Activity Based Costing (ABC) inventory classification system in determining which item should receive the greatest control is the:
+annual dollar usage of each item.
+
+In a Materials Requirements Planning system, what data source is used to determine the raw materials and component parts needed to produce a given item listed in the master schedule?
+Bill of materials
+
+The square root of the variance is the:
+standard deviation.
+
+Based on the normal distribution curve, how many parts in 1,000 would fall outside the limits of a six-sigma range?
+3 parts
+
+If variation in a process is normally distributed and a process dimension has a bilateral tolerance of plus or minus three standard deviations, what would the expected percentage of bad parts be?
+.27 %
+
+A steering joint angle in excess of 12 degrees might cause steering failure in the Weld. The mean was estimated to be 9.25 degrees and, the standard deviation at 1.03 degrees. Given that the data approximates a normal distribution, calculate the "Z" value of the Joint angle of 12 degrees.
+2.67
+
+What is the process capability index Cp if the value of 6 sigma is equal to 75% of the total tolerance?
+Cp is greater than 1
+P468
+
+Control limits on a control chart are:
+based on the process mean and variability.
+P465
+
+The upper and lower limits on a control chart are determined by the:
+capability of the process.
+
+Lines A and B on Fig. 17 denote the:
+upper and lower control limits for X bar.
+P465
+
+For the completion of a given process, the raw data showed a statistical average time of 2.07 minutes. The rating was 90%, and the allowance was 10%. The standard time for this process is:
+2.05 minutes
+
+A shaft is measured with a mean of 5.001 mm with a process standard deviation of 0.004mm. If the engineering specifications are 5 + 0.0 l mm, then what is the process capability 'Cpk' value? Choose the BEST answer.
+0.75
+P470
+
+Which of the following is a graphic technique used to analyze cause-and-effect relationships?
+Fishbone diagram
+P490
+
+A cause and effect diagram is also known as a:
+fishbone diagram.
+
+Which of the following problem-solving techniques specifically prohibits initial criticism of other peoples' ideas?
+brainstorming
+P490
+
+Which of the following problem-solving techniques is the best method for determining the most effective area to be focused on for improvement?
+Pareto analysis
+
+The first step in problem solving is:
+defining the problem.
+P490
+
+Which of the following product design methods is most dependent on open communication and team approach?
+Logic and simulation analysis
+
+Which of the following is a graphic technique that identifies the vital few as opposed to the trivial many (80/20 rule)?
+Pareto Diagram
+
+Problems affecting quality can be classified into "the vital few and the trivial many." Which of the following graphical methods can be used to rank the importance of defects?
+Pareto chart
+
+For a design of experiments (DOE) with 5 factors and 3 levels, how many runs (trials) are required for a full factorial analysis?
+243 =3^5
+
+A metric micrometer would read in
+millimeters.
+
+Working gages used by production personnel generally use what percent of the workpiece tolerance?
+10 percent
+P510
+
+Comparison of a dimension with some standard to see if it is larger or smaller is:
+gaging.
+P510
+
+A hand-held metric micrometer, without a precision vernier scale on the sleeve, would typically read in graduations of .01:
+micrometers.
+
+A reference or master gage is used:
+for calibrating the gages used for inspection.
+
+A profilometer may be used to:
+check the roughness of a ground surface.
+
+A profilometer is used to determine:
+surface roughness.
+
+An optical comparator may be used for:
+contour measurement.
+
+A snap gage with which of the following nominal dimensions would be used to check ground shafts with O.D. specifications of 1.4965+0.0015-0.0010:
+go 1.4975, no go 1.4950
+
+An inspector needs to measure the angle of a beveled surface on a casting. Which of the following measuring devices would be an appropriate instrument for this application?
+Sine bars
+
+How well gage readings agree with a known standard is known as:
+accuracy
+
+The hand-held one inch vernier micrometer shown below reads a measurement of:
+.2560 inch.
+
+How closely gage readings agree with a known standard is known as:
+accuracy.
+
+Which of the following expresses 5 micro inches?
+.000005 inch
+
+The general type of machine that presses a steel ball into a work piece and the measures the amount of penetration is a/an:
+hardness testing machine.
+
+Which of the following is NOT an example of a non-destructive test?
+Tensile Test
+
+Using 3D printing as a means of creating casting molds, jigs, or fixtures; are examples of:
+hybrid manufacturing
+
+In addition to having an established code of ethics posted for a company's employees, what is the best way to promoteethicalbehaviorbytheemployees?
+Management should set an example by demonstrating desired ethical behavior.
+P522
+
+Legally, who has the ultimate responsibility for the ethical behavior of individuals in a manufacturing organization?
+management executives
+P523
+
+Which of the following most hinders communications between upper management and workers?
+numerous levels of management hierarchy
+
+Which of the following is not a barrier to effective communications between people?
+feedback from the information receiver to the sender
+P522
+
+To estimate the for work task to be completed, without the necessity of training a worker to become experienced, which of the following methods should be used?
+work sampling methods
+P559
+
+An individual is more likely to accept a change in procedure if the decision for change comes from that person's:
+work group
+P528/529
+
+Which style of management best promotes group consensus and team input from employees at lower organizational levels?
+Theory Z
+P525
+
+When writing technical instructions, how can one assure the instructions are effective?
+use great detail
+P522/590
+
+When writing a technical report that may be read by a variety of people, the correct format for first time use of an abbreviation or acronym is:
+electro discharge machining (EDM).
+P243/595
+
+The sale of a product known to be faulty, falsification of test results, and nondisclosure of adverse in-process test data are all examples of:
+a lapse of ethical behavior.
+P523/524
+
+Which of the following can reduce the amount of common cause variation that a process exhibits?
+improve equipment used in the process
+P488/464
+
+During strategic planning, the five-forces model, developed by Michael Porter, can be used to analyze the business environment. Which of the following is NOT included as one of the five environmental forces by Porter?
+Employees
+P530
+
+Line and staff refers to:
+Relationships in an organization.
+P526/527
+
+Span of management is:
+The number of subordinates a manager supervises.
+P529
+
+Centralization-decentralization refers to:
+where the real authority resides.
+P528/529
+
+An appropriate way for an industry to deal with an ethical problem with the gray area beyond the reach of existing law would be:
+for the industry to develop its own code of work behavior.
+P523
+
+Techniques of participative management include:
+Kaizen groups.
+P352
+
+Business writing as a process generally follows a series of steps. The first step is:
+editing the message.
+P588/522
+
+Organizational leadership styles can be viewed via a grid whereby concern for production and concern for people are integrated. The management style for which concern for production is low and concern for people is high is called:
+Country Club Management.
+P525
+
+If a manufacturing engineering manager with 6 subordinates were to prioritize and graphically schedule the department's activities for the upcoming week, he/she should use a:
+Gantt Chart.
+P549
+
+If a manufacturing engineering manager with six subordinates were to prioritize and graphically schedule the department’s activities for the upcoming week, he/she should use a:
+Gantt chart.
+
+The facilitator’s first responsibility in leading a group discussion of a problem is to:
+Makes sure everyone knows the current status of the problem.
+P534/535
+
+Which of the following is NOT a characteristic that is ascribed to creativity and innovation?
+High intelligence.
+P599/57-7
+
+When labor unions and company officials have an issue which has reached an impasse, the process by which final settlement may be reached through a third party is known as:
+arbitration.
+P556
+
+Departmental supervisors usually have most of their union contacts with which of the following?
+union business representatives
+P557
+
+Which of the following items is not a part of Value Engineering Analysis?
+Sunk costs
+P564
+
+Which of the following would be the most appropriate application of Value Engineering Analysis?
+Material substitution to satisfy customer
+P564/55-4
+
+Which of the following product design methods is most dependent on open communication and a team approach?
+Simultaneous Engineering
+
+A critical and expensive component of a flexible work cell needs to be replaced periodically as part of a preventative maintenance program. The machine is in operation 15 hours per day, the MTBF of the component is 600 hours, the component has a standard deviation of 30 hours and is highly reliable until wear out. In how many workdays should the component be replaced to cost-effectively assure no machine breakdown?
+30 days
+P481
+
+An experimental part is to be made. Each piece can be turned out on an engine lathe in 4 hours at $16/hr. A numerical control program can be developed in 3 hrs at $10/hr. Pieces can be turned on the NC machine in 2 hrs each at a cost of $30/hr. The NC machine is justified for more than:
+7 pieces.
+
+The set-up cost for running an operation is $13.79 and the part material cost is $0.81. If 300 parts are to be run in lots of 5 parts, the part cost is:
+$3.57 each.
+P564
+
+A set of chuck jaws for an operation costs $50. Another set can save .5 min. in loading each piece, but costs $100. Either set can be used only for this one job which will last less than a year. The cost of the jaws and 20% for recovered. Time saved is worth $6/hr. How many pieces must production rate of 20 pieces per hour?
+1200
+P561
+
+Depreciation is the distribution of an asset’s cost over its depreciable life. The practice whereby the property class of the asset must be determined to get the depreciation rate(s) for a particular timeframe is the:
+Accelerated Cost Recorvery System
+P569
+
+How long will it take for $1,000,000 to double at 8.5% interest compounded annually?
+8.5 years
+P559
+
+Capital investments typically require an immediate out1ay of cash. Determine the future value of a $ 250,000 cash outlay if it was to be invested at 12.0 % interest, compounded annually, for 5 years.
+$ 440,500
+P559
+
+As a visual aid, radar charts are usually used to graphically illustrate:
+the value of each variable with respect to a maximum value.
+P569
+
+Which of the following visual aids probably will best illustrate the comparison of subsets of data?
+A pie chart.
+P561
+
+Which of the following is the most typical mistake made by individuals preparing visual aids for presenting oral technical reports?
+The print is too small
+P591/P592
+
+Which of the following statements is true?
+Confrontation and conflict are not the same
+P596
+
+Five basic modes of managing conflict within an organization include withdrawal, smoothing, compromising, forcing, and confrontation. In general, the best modes of conflict management are:
+Compromising and Confrontation.
+P597
+
+A problem solving approach that whereby parties work through their disagreements is called:
+Confrontation.
+P597 Line34
+
+In preparing a presentation the presenter must first determine the goal and topic of the presentation, the second step is:
+to evaluate the audience.
+P593
+
+Which of the following is essential in preparing tables or charts as visual aids for presenting oral technical reports?
+Tables and charts must be labeled
+
+Based on OSHA regulations, oxygen cylinders may not be stored with compressed gas cylinders containing:
+acetylene.
+
+Based on the normal distribution curve, how many parts in 1,000 would fall outside the limits of a six-sigma range? 
+3 parts
+
+Blow molding is done by:
+exploding a warm plastic tube by air pressure into a mold to form a part
+
+Business writing
+deciding the purpose
+
+Edges of electroplated parts typically: 
+have thicker plating than surfaces.
+
+Epoxy adhesives are classified as:
+chemical-reactive type.
+
+Errors in the Master Production Schedule can result from data inaccuracies in which of the following?
+Inventory balances
+
+●Hall effect sensors rely on what means of actuation? (a magnet to actuate a solid state circuit.)
+●High Speed steel is an iron alloy containing: (tungsten or molybdenum and chromium.)
+●How closely gauge readings agree with a known standard is known as: (accuracy)
+●How do Jigs and fixtures differ? (Jigs guide the cutting tool to the workpiece, but fixtures do not.)
+●How does retrofitting in the field with a different version of the same part affect existing inventory? (Existing inventory must be evaluated to see if it can be used for the retrofit)
+●How long will it take for $1,000,000 to double at 8.5% interest compounted annually? (8.5 years)
+●How many cubic inches of displacement are in a 4.8 liter automotive engine? (293)
+●How manygallons of cutting oil will this barrel hold(Fig.T-1)?(18"dia, 36" height) (39.7)
+●How should radial locators be positioned to minimize true location deviation ? (As far from the axis of rotation as possible)
+●How well gage readings agree with a known standard is known as: (accuracy)
+●Just-In-Time (JIT) is a manufacturing philosophy for the total manufacturing process, form purchasing through distribution. This philosophy is elimination of: (waste)
+●Key concepts, in regards to forecasting for production and inventory planning, include all of the following except: (Forecast error is always present and should be estimated and measured on all forecasts.)
+●Key concepts, in regards to forecasting for production and inventory planning, include all of the following except: (Forecast error is always present and should be estimated and measured on all forecasts.)
+●Lean Manufacturing principles are most similar to: (Toyota Production System (TPS))
+●Legally, who has the ultimate responsibility for the ethical behavior of individuals in a manufacturing organization? (the individualsthemselves)
+●Liability costs are considered as what kind of quality costs: (external failure costs.)
+●Line and staff refers to: (Relationships in an organization.)
+●Lines A and B on Figure 12 denote the: (upper and lower control limits for X bar)
+●Locating can be divided into three very broad categories, which are: (concentric, plane and radial.)
+●Lean Manufacturing principles are most similar to: (Toyota Production System (TPS))
+●Legally, who has the ultimate responsibility for the ethical behavior of individuals in a manufacturing organization? (the individualsthemselves)
+●Liability costs are considered as what kind of quality costs: (external failure costs.)
+●Line and staff refers to: (Relationships in an organization.)
+●Lines A and B on Figure 12 denote the: (upper and lower control limits for X bar)
+●Locating can be divided into three very broad categories, which are: (concentric, plane and radial.)
+●Refer to Exhibit 1 for this item: Which of the following processes is represented by the normal curveillustrated in the exhibit? (Incapable)
+●Refer to Exhibit 2 for this item:Which of the symbols appearing in the exhibit depicts the process capability index that relates the allowable spread of the specification limits to the measure of the actual variation(6 sigmA)of the process? (Option Ⅰ(Cp))
+●Refer to Exhibit 3 for this item:Which of the options appearing in the exhibit depicts the number of experimental conditions required to study all possible combinationsof K factors over 2 levels in a single experimental design? (Option Ⅰ(2K))
+"●Refer to Exhibit 4 for this item:
+In the exhibit, the 1/2 specifies a (size of a weld.)"
+"●Refer to Exhibit 6 for this item:
+Using the PART network shown in the exhibit,which series of events constitute the critical path? (？)"
+●Refer to the graph in Fig.E- 8. Due to manufacturing constraints, the following lot sizes are available. Which size is the most economic?  (500)
+●Regression analysis when used in statistical context: (evaluates the relationship of two or more variables.)
+●Roughness and waviness are: (predictable and controllables surface finish defects that appear on a workpiece as a result of machining　)
+What are the four basic industrial robot configurations available?
+ ans: polar, cartesian, cylindrical, and jointed-arm
+Which type of robotic power system should be selected for extremely quick and accurate asseｍbly of small components?
+ ans: electrical
+The origin of the world coordinate system, when controlling the movement of a robotic arm, is located:
+ ans: at the center of the base of the robot
+A bar code can be read from either left to right or right to left. The symbology feature that allows for this is its:
+ ans: start/stop character
+The X dimension of a bar code refers to the:
+ ans: width of the narrowest element
+You are required to implement an automatic identification system into an existing manufacturing area. The system must have the ability to track parts through the manufacturing system, carry manufacturing data about the product, allow information to be changed or updated and not be affected by dirt or grime. The auto ID technique that best fits this application is:
+ ans: radio frequency identification
+The square root of the variance is the:
+ ans: standard deviation
+Based on the normal distribution curve, how many parts in 1,000 would fall outside the limits of a six-sigma range?
+ ans: 99.73% ; 95,46%; 68,26%
+A steering joint angle in excess of 12 degrees might cause steering failure in the field. The mean was estimated to be 9.25 degrees and the standard deviation at 1.03 degree. Given that the data approximates a normal distribution, calculate the "Z" value 
+ ans: Z = (12-9.25)/1.03
+What is the process capability index Cp if the value of 6 sigma is equal to 75% of the total tolerance?
+ ans: Cp is greater than 1"P327
+
+Cp=（USL-LSL）/６σ"
+A metric micrometer would read in
+ ans: a milimeters
+Working gages used by production personnel generally use what percent of the workpiece tolerance?
+ ans: 10 percent
+What is the measurement shown this  0"-1" micrometer (fig.11) 
+ ans: 0.6310
+A profilometer may be used to:
+ ans:check the roughness of a ground surface (or measure the profiles of gear teeth after shaving)
+An optical comparator may be used for:
+ ans: contour measurement
+Which of the following is a graphic technique used to analyze cause-and-effect relationships?
+ ans: fishbone diagram
+Legally, who has the ultimate responsibility for the ethical behavior of individuals in a manufacturing organization?
+ the owners of the company
+If a manufacturing engineering manager with 6 subordinates were to prioritize and graphically schedule the department's activities for the upcoming week, he/she should use a:
+ ans: Gantt chart
+Which of the following most hinders communications between upper management and workers?
+ ans: numerous levels of management hierarchy
+In addition to having an established code of ethics posted for a company's employees, what is the best way to promote ethical behavior by the employees?
+ ans: management should set an example by demonstrating desired ethical behavior
+A profilometer may be used to:
+ ans: surface roughness
+How well gage readings agree with a known standard is known as:
+ ans: accuracy
+A snap gage with which of the following nominal dimensions would be used to check ground shafts with O.D. specifications of 1.4965 + 0.0015 - 0.0010?
+ ans: go 1.4980, no go 1.4955
+An inspector needs to measure the angle of a beveled surface on a casting. Which of the following measuring devices would be an appropriate instrument for this application?
+  ans: sine bar
+A reference or master gage is used:
+ ans: for calibrating the gages used for inspection
+A hand-held metric micrometer, without a precision vernier scale on the sleeve, would typically read in graduations of .01:
+ ans:milimeters
+A cause and effect diagram is also known as a:
+ ans: fishbone diagram
+Which of the following problem-solving techniques is the best method for determining the most effective area to be focused on for improvement?
+ ans: parato analysis
+Which of the following methods may be used to achieve method for determining the most effective area to be focused in for improvement?
+A)pareto analysis
+B)Quality audits
+C)Quality Function Deployment
+D)Attribute control charts"
+ ans: quality funtion deployment
+Which of the following problem-solving techniques specifically prohibits initial criticism of other people's ideas?
+ ans:brainstorming
+Which of the following is not a barrier to effective communications between people?
+ ans: feedback from the information reseiver to the sender
+Which of the following is the most typical mistake made by individuals preparing visual aids for presenting oral technical reports?
+ ans: the language and words are too technical
+To estimate the time for a work task to be completed, without the necessity of training a worker to become experienced, which of the following methods should be used?
+ ans: micromotion study with a video camera
+Departmental supervisors usually have most of their union contacts with which of the following?
+ ans: union business representative
+Which of the following methods may be used to archive high quality products by conducting market research and experiments aimed at determining customer needs?
+ ans: work group
+When labor unions and company officials have an issue which has reached an impasse, the process by which final settlement may be reached through a third party is known as:
+ ans: arbitration
+Which of the following can reduce the amount of common cause variation that a process exhibits?
+ ans: Theory Y
+When writing a technical report that may be read by a variety of people, the correct format for first time use of an abbreviation or acronym is:
+ ans: electrodischarge machining
+The sale of a product known to be faulty, falsification of test results, and nondisclosure of adverse in-process test data are all examples of:
+ ans: a lapse of ethical behavior
+Which of the following can reduce the amount of common cause variation that a process exhibits?
+ ans: improve equipment used in the process
+For the completion of a given process, the raw data showed a statistical average time of 2.07 minutes, the rating was 90% and the allowance was 10%. The standard time for this process is:
+ ans: 2.07(1+0.1)*0.9=2.05
+Problems affecting quality can be classified into "the vital few and the trivial many." Which of the following graphical methods can be used to rank the importance of detects?
+ asn: pareto chart
+Which of the following is a graphic technique that identifies the vital few as opposed to the trivial many (80/20 rule)
+ ans: pareto diagram
+The first step in problem solving is:
+ ans: defining the problem
+An individual is more likely to accept a change in procedure if the decision for change comes from that person's:
+ ans: immediate supervisor
+Which of the following is essential in preparing tables or charts as visual aids for presenting oral techical reports?
+ ans: table and charts must be labeled
+When designing with concern for ergonomics, human factors engineers would most likely suggest that features be designed to:
+ ans: adjust to fit people from the 5th to the 95th percentile of size
+When designing a manual assembly operation, which of the following would not contribute to repetitive motion injuries?
+ ans: inadequate lighting
+Based on OSHA regulations, oxygen cylinders may not be stored with compressed gas cylinders containing:
+ ans: acetylene
+Which of the following types of portable fire extinguishers should be used on a fire involving computers?
+ ans: class C
+The Occupational Safety and Health Act (OSHA) places the legal obligation to comply on:
+ ans: every employee
+In addition to adequate safeguarding and electrical grounding, every automated machine tool must:
+ ans: have an emergency stop
+Machine guarding shall be provided to protect employees in the machine area from hazards. According to federal regulations, a guard should be designed so that it:
+ ans: does not present an accidend hazard in itself
+Which of the following is the most effective method to assure safety within an organization?
+ ans: organizing safety as a separate function department or commitee within the organization
+OSHA　requires that ear protection be provided to employees when they experience sound duration of 8 hours per day that exceeds: (as mesured on the "A" scale of a standard sound-levelmeter at slow response)
+ ans: 90dBA
+OSHA requirements stipulate that when a press is being worked on. Which of the following be done?
+ ans: the supervisor be present
+Which of the following items is not a part of Value Engineering Analysis?
+ ans: sunk costs
+Which of the following would be the most appropriate application of Value Engineering analysis?
+ ans: a material substitution to satisfy customer
+Which of the following product design methods is most dependent on open communication and a team approach?
+ ans: a simultaneous engineering
+A critical and expensive component of a flexible work cell needs to be replaced periodically as part of a preventative maintenance program. The machine is in operation 15 hours per day, the MTBF of the component is 600 hours, the component has a standard deviation of 30 hours and is highly reliable until wearout. In how many workdays shoud the component be replaced to cost-effectively assure no machine breakdown?
+ ans: 35 days
+An experimental part is to be made.Each piece can be turned out on an engine lathe in 4 hors at $16/hr. A numerical control program can be developed in 3 hours at $10/hr. Pieces can be turned on the NC mahine in 2 hrs each at a cost of $30/hr. The NC machine is justified for more than:
+ ans: 10 pieces
+The set-up cost for running an operation is $13.79 and the part material cost is $0.81. If 300 parts are to be run in lots of 5 parts, the part cost is:
+ ans: 3.57usd, 13.79/5+0.81
+A set of chuck jaws for an operation costs $50. Another set can save .5 min. in loading each piece, but costs $100. Either set can be used only for this one job which will last less than a year. The cost of the jaws and 20% for recovered. Time saved is worth $6/hr. How many pieces must production rate of 20 pieces per hour?
+ ans: 1200
+How long will it take for $1,000,000 to double at 8.5% interest compounted annually?
+ ans: 8.5years, 1000000*1.085
+The first step in Kaizen process is :
+ ans: the establishment of the Plan-Do-Check-Act(PCDA) cycle as the vehicle for maintaining and improving standards
+Which type of robotic power system should be selected for extremely quick and accurate asseｍbly of small components?
+ ans: electrical
+Which of the following is a graphic technique used to analyze cause-and-effect relationships?
+ ans: fishbone diagram
+Which of the following most hinders communications between upper management and workers?
+ ans: numerous levels of management hierarchy
+Which of the following problem-solving techniques is the best method for determining the most effective area to be focused on for improvement?
+ ans: parato analysis
+Which of the following methods may be used to achieve method for determining the most effective area to be focused in for improvement?
+A)pareto analysis
+B)Quality audits
+C)Quality Function Deployment
+D)Attribute control charts"
+ ans: quality funtion deployment
+Which of the following problem-solving techniques specifically prohibits initial criticism of other people's ideas?
+ ans:brainstorming
+Which of the following is not a barrier to effective communications between people?
+ ans: feedback from the information reseiver to the sender
+Which of the following is the most typical mistake made by individuals preparing visual aids for presenting oral technical reports?
+ ans: the language and words are too technical
+Which of the following methods may be used to archive high quality products by conducting market research and experiments aimed at determining customer needs?
+ ans: work group
+Which of the following can reduce the amount of common cause variation that a process exhibits?
+ ans: Theory Y
+Which of the following can reduce the amount of common cause variation that a process exhibits?
+ ans: improve equipment used in the process
+Which of the following is a graphic technique that identifies the vital few as opposed to the trivial many (80/20 rule)
+ ans: pareto diagram
+Which of the following is essential in preparing tables or charts as visual aids for presenting oral techical reports?
+ ans: table and charts must be labeled
+Which of the following types of portable fire extinguishers should be used on a fire involving computers?
+ ans: class C
+Which of the following is the most effective method to assure safety within an organization?
+ ans: organizing safety as a separate function department or commitee within the organization
+Which of the following items is not a part of Value Engineering Analysis?
+ ans: sunk costs
+Which of the following would be the most appropriate application of Value Engineering analysis?
+ ans: a material substitution to satisfy customer
+Which of the following product design methods is most dependent on open communication and a team approach?
+ ans: a simultaneous engineering
+"●You are faced with the problem of scheduling an order through two departments. The following information is known:
+Process Time
+(Hours/unit)
+ProductsMachiningAssembly
+A64
+B35
+C21
+D11
+The volumes to be produced are 100 of A,500 of B,200 of C, and 30 of D.Assume that each unit may be assembled immediately following machining.If machining must precede the assembly of each product, which product should be machined first in order to ensure minimum elapsed time for the entire order? (Product B)"
+"●You are required to implement an automatic identification system into an existing manufacturing area. The system must have the ability to track parts through the manufacturing system, carry manufacturing data about the product, allow information to be changed or updated and not be affected by dirt or grime. The auto ID technique that best fits this application is:
+ (radio frequency identification.)"
+
+Materials Requirements Planning system, what data source is used to determine the raw materials and component parts needed to produce a given item listed in the master schedule?
+Bill of materials
+
+What is the primary function of MRPII planning?
+controlling scheduling and material procurement
+
+Lean Manufacturing principles are most similar to:
+Toyota Production System (TPS)
+
+Takt time is the:
+tool used to set the pace of the manufacturing process.
+
+The first step in the Kaizen process is:
+to review the plant’s defect data to determine which process requires immediate attention.
+
+Which one of the following allows the GREATEST flexibility in an assembly system?
+Manual assembly operations.
+
+Which plant layout is most suitable for a facility that is using computer-aided flexible manufacturing work cells for medium-to-low volume component production runs?
+Process layout
+
+In general, which has the lowest relative cost for manual assembly?
+Snap fitting
+
+Which of the following is the least important design consideration of a jig or fixture?
+cutting tool life
+
+The Occupational Safety and Health Act (OSHA) places the legal obligation to comply on:
+employers.
+
+In addition to adequate safeguarding and electrical grounding, every automated machine tool must:
+have an emergency stop.
+
+Machine guarding shall be provided to protect employees in the machine area from hazards. According to federal regulations, a guard should be designed so that it:
+does not present an accident hazard in itself.
+
+An example of a unit load material handling technique would be a(n).
+conveyor belt.
+
+On a CNC machine tool, what is the advantage of a floating zero vs. a fixed zero? 
+It allows programmer-defined zero referenced point.
+
+ISO 9001 Quality Management System Certification:
+requires a third-party auditor that is an accredited registrar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
